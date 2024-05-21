@@ -18,7 +18,7 @@
 
     ```bash
     bash코드 복사
-    git clone https://github.com/fastcampus-flutter/part2_rsp_game.git
+    git clone https://github.com/blueeye09/rsp_game.git
     cd part2_rsp_game
     
     ```
